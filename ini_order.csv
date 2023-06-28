@@ -1,9 +1,12 @@
 ,Name,ini,HP,Turn
-0,Bandit_1,20,-44,2
-1,Bandit_2,19,12,2
-2,Bandit_0,7,12,2
-3,Bandit_3,3,12,2
-4,Lazarus,0,1,2
-5,Abi,0,1,2
-6,Lika,0,1,2
-7,Bart,0,1,2
+0,Goblin Berserker_3,20,67,1
+1,Goblin Berserker_2,18,67,1
+2,Goblin Berserker_4,14,67,1
+3,Goblin Berserker_1,12,67,1
+4,Elyse_0,8,60,1
+5,Goblin Berserker_0,6,67,1
+6,Caleb_0,2,93,1
+7,Lazarus,0,1,1
+8,Abi,0,1,1
+9,Lika,0,1,1
+10,Bart,0,1,1
